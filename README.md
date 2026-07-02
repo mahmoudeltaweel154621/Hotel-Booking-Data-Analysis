@@ -2,7 +2,7 @@
 
 Analysis of 3 years of hotel reservation data (2018–2020) using SQL Server for data prep and Power BI for visualization. The goal was to turn raw, split-up booking records into a dashboard that actually answers business questions — where's revenue coming from, how do hotel types compare, and what's driving demand over time.
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## What's in here
 
